@@ -12,8 +12,8 @@ The management of the company wants to know about their business, customer, and 
 
 ## Description of Datasets given by the company
 
-*\*Company has given sql databases.
-This description will give us the idea about the initial structure of the data*
+*\*The company has given SQL databases.
+This description will give us an idea about the initial structure of the data*
 
 
 - **dim_customer :** contains customer-related data
@@ -26,7 +26,7 @@ This description will give us the idea about the initial structure of the data*
 **Description for dim_customer table :**
 - **customer_code :** The 'customer_code' column features unique identification codes for every customer in the dataset. These codes can be used to track a customer's sales history, demographic information, and other relevant details. For example, the codes could look like '70002017', '90005160', and '80007195' respectively.
 
-- **customer :** The 'customer' column lists the names of customers, for example 'Atliq Exclusive', 'Flipkart', and 'Surface Stores' etc.
+- **customer :** The 'customer' column lists the names of customers, for example 'Atliq Exclusive', 'Flipkart', and 'Surface Stores', etc.
 
 - **platform :** The 'platform' column identifies the means by which a company's products or services are sold. "Brick & Mortar" represents the physical store/location, and 			"E-Commerce" represents online platforms.
 
@@ -91,13 +91,13 @@ products within a database or system.
 
 - Process the given data and find answers for ad hoc requests.
 - Generate insights from the data after analysing for reporting.
-- Provide few recommendations for improvements.
+- Provide a few recommendations for improvements.
 
 ## Methodology used / Workflow
 
-- Sql queries are written to get answers of ad hoc requests from the given sql databases by the company. We have leveraged "Joins", "CTE", "Group By", "Sub-queries" etc. to write the queries.
-- The data is imported to power bi for the visualization of the tabular data we got as the answers of the ad hoc requests. We have used Bar Charts, Column Charts, Pie Chart, Line Charts etc.
-- After the analysis we have documented our analysis, insights and recommendations as pdf to deliver as the final result.
+- Sql queries are written to get answers of ad hoc requests from the given sql databases by the company. We have leveraged "Joins", "CTE", "Group By", "Sub-queries", etc. to write the queries.
+- The data is imported to power bi for the visualization of the tabular data we got as the answers of the ad hoc requests. We have used Bar Charts, Column Charts, Pie Charts, Line Charts, etc.
+- After the analysis,s we have documented our analysis, insights and recommendations as pdf to deliver as the final result.
 
 ## Files
 
@@ -111,6 +111,6 @@ This project is created by **Avirup Mitra**
 
 **LinkedIn :** www.linkedin.com/in/avirupmitra06
 
-Please feel free to DM for any suggestions and improvements or any other queries. Thank you for your time.
+Please feel free to DM for any suggestions and improvements, or any other queries. Thank you for your time.
 
-**This is an overview of the project. Please refer to the main project files for detailed result**
+**This is an overview of the project. Please refer to the main project files for detailed results**
